@@ -32,7 +32,6 @@
 <br />
 <br />
 <br />
-<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron2k02&show_icons=true&locale=en" alt="aaron2k02" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaron2k02&" alt="aaron2k02" /></p>
 <br />
